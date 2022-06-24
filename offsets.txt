@@ -1,0 +1,31 @@
+
+All Offsets Dumped On 06-24-2022 By FaridZ
+
+[+] fx::ResourceImpl::Stop -> 0x16ae0
+[+] fx::ResourceImpl::Start -> 0x16a10
+[+] fx::ResourceManager::CreateResource -> 0x21760
+[+] fx::ResourceManager::GetCurrent -> 0x21bc0
+[+] fx::ResourceManager::MakeCurrent -> 0x22610
+[+] fx::ResourceMetaDataComponent::LoadMetaData -> 0x34760
+
+<============================== DUMPING vfs-core.dll ==============================>
+
+[+] vfs::Device::Device -> 0xd9b0
+[+] vfs::Manager::Manager -> 0xd9d0
+[+] vfs::Stream::Stream -> 0x12f70
+[+] vfs::Manager::OpenRead -> 0xf430
+[+] vfs::Stream::GetLength -> 0x13130
+[+] vfs::Stream::Read -> 0x132a0
+
+<============================== DUMPING GameOffset ==============================>
+
+[+] world -> 0xFFFFFDDCEB60DC87
+[+] blipPtr -> 0xFFFFFDDCEB60DC87
+[+] viewPort -> 0xFFFFFDDCEB60DC87
+[+] replayInterface -> 0xFFFFFDDCEB60DC87
+
+<============================== DUMPING vfs-core.dll ==============================>
+
+[+] DiscordManager -> 0x822E0
+
+
