@@ -1,6 +1,7 @@
 
 All Offsets Dumped On 06-24-2022 By FaridZ
 
+# citizen-resources-core.dll
 [+] fx::ResourceImpl::Stop -> 0x16ae0
 [+] fx::ResourceImpl::Start -> 0x16a10
 [+] fx::ResourceManager::CreateResource -> 0x21760
@@ -8,7 +9,7 @@ All Offsets Dumped On 06-24-2022 By FaridZ
 [+] fx::ResourceManager::MakeCurrent -> 0x22610
 [+] fx::ResourceMetaDataComponent::LoadMetaData -> 0x34760
 
-<============================== DUMPING vfs-core.dll ==============================>
+# vfs-core.dll
 
 [+] vfs::Device::Device -> 0xd9b0
 [+] vfs::Manager::Manager -> 0xd9d0
@@ -17,14 +18,14 @@ All Offsets Dumped On 06-24-2022 By FaridZ
 [+] vfs::Stream::GetLength -> 0x13130
 [+] vfs::Stream::Read -> 0x132a0
 
-<============================== DUMPING GameOffset ==============================>
+# GameOffset
 
 [+] world -> 0xFFFFFDDCEB60DC87
 [+] blipPtr -> 0xFFFFFDDCEB60DC87
 [+] viewPort -> 0xFFFFFDDCEB60DC87
 [+] replayInterface -> 0xFFFFFDDCEB60DC87
 
-<============================== DUMPING vfs-core.dll ==============================>
+# discord.dll
 
 [+] DiscordManager -> 0x822E0
 
