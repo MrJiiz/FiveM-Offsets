@@ -1,5 +1,5 @@
 
-All Offsets Dumped On 06-24-2022 By FaridZ
+All Offsets Dumped On 06-25-2022 By FaridZ
 
 # citizen-resources-core.dll
 [+] fx::ResourceImpl::Stop -> 0x16ae0
@@ -20,10 +20,10 @@ All Offsets Dumped On 06-24-2022 By FaridZ
 
 # GameOffset
 
-[+] world -> 0xFFFFFDDCEB60DC87
-[+] blipPtr -> 0xFFFFFDDCEB60DC87
-[+] viewPort -> 0xFFFFFDDCEB60DC87
-[+] replayInterface -> 0xFFFFFDDCEB60DC87
+[+] world -> 0xFFFFFEC4E685D927
+[+] blipPtr -> 0xFFFFFEC4E685D927
+[+] viewPort -> 0xFFFFFEC4E685D927
+[+] replayInterface -> 0xFFFFFEC4E685D927
 
 # discord.dll
 
