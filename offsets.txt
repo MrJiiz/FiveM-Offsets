@@ -1,29 +1,29 @@
 
-All Offsets Dumped On 06-25-2022 By FaridZ
+All Offsets Dumped On 07-31-2022 By FaridZ
 
 # citizen-resources-core.dll
-[+] fx::ResourceImpl::Stop -> 0x16ae0
-[+] fx::ResourceImpl::Start -> 0x16a10
-[+] fx::ResourceManager::CreateResource -> 0x21760
-[+] fx::ResourceManager::GetCurrent -> 0x21bc0
-[+] fx::ResourceManager::MakeCurrent -> 0x22610
-[+] fx::ResourceMetaDataComponent::LoadMetaData -> 0x34760
+[+] fx::ResourceImpl::Stop -> 0x16b70
+[+] fx::ResourceImpl::Start -> 0x16aa0
+[+] fx::ResourceManager::CreateResource -> 0x217f0
+[+] fx::ResourceManager::GetCurrent -> 0x21c50
+[+] fx::ResourceManager::MakeCurrent -> 0x226a0
+[+] fx::ResourceMetaDataComponent::LoadMetaData -> 0x347f0
 
 # vfs-core.dll
 
-[+] vfs::Device::Device -> 0xd9b0
-[+] vfs::Manager::Manager -> 0xd9d0
-[+] vfs::Stream::Stream -> 0x12f70
-[+] vfs::Manager::OpenRead -> 0xf430
-[+] vfs::Stream::GetLength -> 0x13130
-[+] vfs::Stream::Read -> 0x132a0
+[+] vfs::Device::Device -> 0xda70
+[+] vfs::Manager::Manager -> 0xda90
+[+] vfs::Stream::Stream -> 0x13030
+[+] vfs::Manager::OpenRead -> 0xf4f0
+[+] vfs::Stream::GetLength -> 0x131f0
+[+] vfs::Stream::Read -> 0x13360
 
 # GameOffset
 
-[+] world -> 0xFFFFFEC4E685D927
-[+] blipPtr -> 0xFFFFFEC4E685D927
-[+] viewPort -> 0xFFFFFEC4E685D927
-[+] replayInterface -> 0xFFFFFEC4E685D927
+[+] world -> 0xFFFFFDB4D209D397
+[+] blipPtr -> 0xFFFFFDB4D209D397
+[+] viewPort -> 0xFFFFFDB4D209D397
+[+] replayInterface -> 0xFFFFFDB4D209D397
 
 # discord.dll
 
