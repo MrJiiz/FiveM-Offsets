@@ -18,15 +18,25 @@ All Offsets Dumped On 07-31-2022 By FaridZ
 [+] vfs::Stream::GetLength -> 0x131f0
 [+] vfs::Stream::Read -> 0x13360
 
-# GameOffset
-
-[+] world -> 0xFFFFFDB4D209D397
-[+] blipPtr -> 0xFFFFFDB4D209D397
-[+] viewPort -> 0xFFFFFDB4D209D397
-[+] replayInterface -> 0xFFFFFDB4D209D397
-
 # discord.dll
 
 [+] DiscordManager -> 0x822E0
+
+# GameOffset
+[+] Sigs = 48 8B 05 ? ? ? ? 45 ? ? ? ? 48 8B 48 08 48 85 C9 74 07
+[+] World = 0x247F840;
+[+] LocalPlayer = 0x8;
+[+] BlipPTR = 0x14206B4E0;
+[+] Health = 0x8 + 0x280
+[+] God = 0x8 + 0x189
+[+] Armor = 0x8 + 0x14B8
+[+] SprintSpeed = 0x8 + 0x10B8 + 0x14C
+[+] Ammo = 0x8 + 0x10C8 + 0x20 + 0x60 + 0x8 + 0x0 + 0x18
+[+] Damage = 0x8 + 0x10C8 + 0x20 + 0x60 + 0x8 + 0x0 + 0x98
+[+] VehicleGodmode = 0x08 + 0xD28 + 0x189
+[+] Blip = 0x8
+[+] BlipIcon = 0x40
+[+] BlipColor = 0x48
+
 
 
